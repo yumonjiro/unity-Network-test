@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{B9B3C161-900C-9A45-157E-43C9B8918B5D}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/memo.txt">
+    <Files>
+      <File FileName="Assets/Scripts/Gameplay/UI/UIState.cs" />
+      <File FileName="Assets/Scripts/Gameplay/GameplayObjects/Unit/Unit.cs" />
+      <File FileName="Assets/Scripts/Gameplay/GameplayObjects/PersistentPlayer.cs" />
+      <File FileName="Library/PackageCache/com.unity.netcode.gameobjects@1.6.0/Runtime/Core/NetworkBehaviour.cs" />
+      <File FileName="Assets/Scripts/Gameplay/UI/ConcreteUIState/SpawnTargetSelection.cs" />
+      <File FileName="Assets/Scripts/Gameplay/UI/ConcreteUIState/ActionTypeSelection.cs" />
+      <File FileName="Assets/Scripts/Gameplay/Management/ClientActionManager.cs" />
+      <File FileName="Assets/Scripts/PlayerInputs.cs" />
+      <File FileName="Assets/Scripts/Gameplay/GameplayObjects/Tile/Tile.cs" Line="44" Column="34" />
+      <File FileName="Assets/Scripts/Gameplay/Management/CameraManager.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Gameplay/Management/UIManager.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Gameplay/Action/ActionRequestData.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Gameplay/Action/ConcreteAction/MoveAction.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Gameplay/Management/TileManager.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Gameplay/Management/UnitManager.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Gameplay/Action/ClientActionPlayer.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Gameplay/Management/ActionManager.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Utils/AStar.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Gameplay/Management/ClientGameStateManager.cs" Line="65" Column="75" NotebookId="1" />
+      <File FileName="Assets/Scripts/memo.txt" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Col" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Gameplay" expanded="True">
+                  <Node name="Action" expanded="True">
+                    <Node name="ConcreteAction" expanded="True" />
+                  </Node>
+                  <Node name="GameplayObjects" expanded="True">
+                    <Node name="Tile" expanded="True" />
+                    <Node name="Unit" expanded="True" />
+                  </Node>
+                  <Node name="Management" expanded="True" />
+                  <Node name="UI" expanded="True">
+                    <Node name="ConcreteUIState" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Utils" expanded="True" />
+                <Node name="memo.txt" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e158eab1-9b2e-4ecb-828c-975c9ce13e88" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
